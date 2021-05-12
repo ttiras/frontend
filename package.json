@@ -47,7 +47,7 @@
     "redux-thunk": "^2.3.0",
     "source-map-explorer": "^2.4.2",
     "subscriptions-transport-ws": "^0.9.16",
-    "swiper": "^5.2.0",
+    "swiper": "^6.5.1",
     "uuid": "^3.3.3"
   },
   "scripts": {
